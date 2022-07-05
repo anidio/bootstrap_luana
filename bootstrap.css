@@ -1,0 +1,19 @@
+body{
+    margin: 20% 30%;
+}
+
+img{
+    height: max-content;
+}
+
+.carousel-item,
+ .slide{
+    width: 500px;
+    height: 200px;
+}
+
+.carousel-item{
+    width: auto;
+    height: auto;
+}
+
