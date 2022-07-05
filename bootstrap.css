@@ -1,19 +1,14 @@
-body{
-    margin: 20% 30%;
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body {
+  background-image: url("https://hdqwalls.com/download/8-bit-nature-lu-2048x2048.jpg") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #83CB53;
 }
 
 img{
-    height: max-content;
+  width: 10rem;
+  height: 10rem;
 }
-
-.carousel-item,
- .slide{
-    width: 500px;
-    height: 200px;
-}
-
-.carousel-item{
-    width: auto;
-    height: auto;
-}
-
